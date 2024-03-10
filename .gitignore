@@ -4,3 +4,5 @@
 /output
 gen_docs.py
 *.html
+/emojis-for-godot
+/gdscript-docs-gen
