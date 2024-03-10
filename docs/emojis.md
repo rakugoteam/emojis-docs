@@ -1,7 +1,8 @@
-# Emojis
+# EmojisDB
 
 Extends **Node**
 
+Singleton for easy use of emojis anywhere in your project.
 
 ## Vars
  - [**emojis**](#emojis)
