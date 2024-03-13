@@ -1,6 +1,8 @@
 # EmojiButton
 
-Extends **Button**
+_Extends **Button**_
+
+EmojiIcon is a simple node that displays an emoji in UI.
 
 
 ## Vars
@@ -11,12 +13,24 @@ Extends **Button**
  - [**update_emoji**()](#update_emoji)
 
 ## Vars
+
 ### emoji_name
+
+The name (alias) of the emoji to display.
+*type* : `String`
 *default value* : `"sunglasses":`
 
 ### emoji_size
+
+The size of the emoji and button to display.
+
+*type* : `int`
 *default value* : `16:`
 
 
 ## Funcs
+
 ### update_emoji()
+
+Function used is change the emoji or it size.
+It is called when the emoji_name or emoji_size is changed.
