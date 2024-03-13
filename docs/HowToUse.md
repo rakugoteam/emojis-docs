@@ -1,4 +1,4 @@
-## How to Use
+# Emoji Finder Tutorial
 
 First add one of this nodes:
 - [EmojiIcon]
