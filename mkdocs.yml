@@ -12,7 +12,7 @@ extra:
 
 theme:
   name: material
-  logo: logo.svg
+  logo: assets/logo.svg
   palette:
     scheme: slate
     primary: deep purple

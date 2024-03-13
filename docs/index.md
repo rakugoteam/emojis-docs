@@ -2,12 +2,17 @@
 
 ![addon-in-action]
 
-Addon for easy using Emojis in Godot UI.
+Addon for easy using Emojis in Godot UI
+
 - is compatible with emojis Unicode 15.1
 - uses [Google Noto Emojis Color font][noto-emoji]
 - uses [json data generated using python][emoji-json]
 
 ## How to use
+
+- [Emoji Finder Tutorial]
+- [Using Emojis in RichTextLabel]
+- [Export Settings]
 
 ## Nodes
 
@@ -18,10 +23,9 @@ Addon for easy using Emojis in Godot UI.
 
 - [EmojisDB]: singleton for easy use of emojis anywhere in your project.
 
-## Examples
 
-- [Using Emojis in RichTextLabel]
-
+[Emoji Finder Tutorial]:HowToUse.md
+[Export Settings]:Export.md
 [Using Emojis in RichTextLabel]:LabelWithEmojis.md
 [EmojisDB]:emojis.md
 [EmojiIcon]:EmojiIcon.md
