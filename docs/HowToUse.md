@@ -1,14 +1,13 @@
 # Emoji Finder Tutorial
 
 First add one of this nodes:
-
-- [EmojiIcon]
-- [EmojiButton]
+ - [EmojiIcon]
+ - [EmojiButton]
 
 ![emoji-nodes]
 
 Open **Emoji Finder**, go to Godot's menu
-*Project **(1)** > Tools **(2)** > Emoji Finder **(3)***
+_Project **(1)** > Tools **(2)** > Emoji Finder **(3)**_
 So you can find the emojis easily.
 
 ![EmojiFinder Menu Screen Shot][emoji-finder-menu-screenshot]
