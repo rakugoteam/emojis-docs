@@ -26,7 +26,7 @@ Now select Emoji node in scene tree.
 ![emoji-scene]
 
 Look at node **Inspector**,
-paste emoji alias using (`Ctrl + V` or *Right Mouse Button > Paste*) as **Emoj Name (1)** and set it size **(2)**.
+paste emoji alias using (`Ctrl + V` or *Right Mouse Button > Paste*) as **Emoji Name (1)** and set it size **(2)**.
 
 ![emoji-inspector]
 
