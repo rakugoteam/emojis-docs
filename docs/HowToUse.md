@@ -7,7 +7,7 @@ First add one of this nodes:
 ![emoji-nodes]
 
 Open **Emoji Finder**, go to Godot's menu
-_Project **(1)** > Tools **(2)** > Emoji Finder **(3)**_
+_Project (1) > Tools (2) > Emoji Finder (3)_
 So you can find the emojis easily.
 
 ![EmojiFinder Menu Screen Shot][emoji-finder-menu-screenshot]
