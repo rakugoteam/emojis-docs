@@ -19,10 +19,6 @@ Addon for easy using Emojis in Godot UI
 - [EmojiIcon]: A node that displays an Emoji.
 - [EmojiButton]: A node that displays an Emoji as a button.
 
-## Singletons
-
-- [EmojisDB]: singleton for easy use of emojis anywhere in your project.
-
 
 [Emoji Finder Tutorial]:HowToUse.md
 [Export Settings]:Export.md
